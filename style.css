@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+h1{
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 7rem;
+}
+
+p{
+    max-width: 500px;
+    margin: auto;
+    color: blanchedalmond;
+    display: inline-block;
+}
+a{
+    max-width: 200px;
+    margin: auto;
+    color: blanchedalmond;
+    text-decoration: none;
+    display: inline-block;
+}
